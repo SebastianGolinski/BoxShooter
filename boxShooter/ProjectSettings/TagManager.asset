@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ModelChildColor
+  - ModelChild
+  - Model
+  - Shop_color
+  - Cell
+  - PlayerChild
+  - Background
+  - SpawnBallT
+  - Pieces
+  - Ball
+  - Diamond
+  - ButtonCanvas
+  - Enemy
+  - Shop_Gun
+  - BonusP
+  - White
+  - Boundary
+  - EmptyBox
+  - BoxOut
+  - WinZone
+  - GetStar
+  - Box
+  - Wall
+  - Shop_player
+  - Moving_Box
+  - DownUp_Box
+  - strzalki
+  - Ball_Gun
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
